@@ -1,6 +1,1 @@
 title: 'Blog de Fabrice Bibonne'
-defaults:
-  - scope:
-      path: "assets/debug-remote-jvm-with-intellij"
-    values:
-      image: true
